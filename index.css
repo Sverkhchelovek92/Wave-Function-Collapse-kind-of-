@@ -1,0 +1,12 @@
+.field {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0px;
+  width: 720px;
+}
+
+.empty_square {
+  height: 180px;
+  width: 180px;
+  background-color: lightgrey;
+}
